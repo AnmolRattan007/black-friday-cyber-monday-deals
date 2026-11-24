@@ -447,6 +447,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 40% off · first year of annual Starter, Growth or Success, new customers | US$234.00 / year · Starter, first year | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | See offer | — | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% off | — | — |
+| [Keyword Race](https://keywordrace.com/) | About 40% off · lifetime | $35.00 · one-time | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% off · first 3 months | From $14.00 / month · first 3 months | — |
 | [LandinTools](https://tools.landin.page/advertise) | 50% off | $24.50 / year · Featured listing | `BF2026` |
 | [Later](https://later.com/black-friday-sale/) | 6 months free | $37.50 / month · billed yearly | — |
