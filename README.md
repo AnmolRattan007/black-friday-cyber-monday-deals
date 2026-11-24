@@ -194,6 +194,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 
 | Product | Discount | Sale price | Code |
 | --- | --- | --- | --- |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | 50% bonus credits · one-time packs; up to 300 bonus credits · eligible monthly plans, first month | From US$9.90 · one-time; from US$19.90 / month · first month | — |
 | [Atmos](https://atmos.style/) | Up to 50% off | $79.50 · lifetime | `BF2026` |
 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?mt=8) | 60% off | $9.99 · lifetime | — |
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | 50% off | $39.99 · lifetime | — |
