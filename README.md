@@ -160,6 +160,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ConceptViz](https://conceptviz.app/pricing) | Lifetime offer | $299.00 · lifetime | — |
 | [Enconvo](https://enconvo.com/) | 30% off | — | — |
 | [Fluent 2](https://fluentmac.app/) | 25% off | $36.75 · Basic | `BF2026` |
+| [MakeMidas](https://makemidas.com/pricing) | Up to 25% more credits · credit packs | $10 · 1,250 credits (was 1,000) · one-time | — |
 | [Mo](https://appsbymo.app/mo/) | 50% off | — | `BLACKFRIDAY` |
 | [Nivon](https://nivon.ai/) | 30% off | — | `BLFCM2026` |
 | [PDF Pals](https://pdfpals.com/buy) | 20% off Basic/Plus; $149 lifetime | $149.00 · lifetime | `BF20` |
