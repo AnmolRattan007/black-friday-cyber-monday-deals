@@ -460,6 +460,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Growave](https://www.growave.io/bfcm-deals) | 20% off | $159.00 / month · Growth | — |
 | [HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz) | 40% off · first year of annual Starter, Growth or Success, new customers | US$234.00 / year · Starter, first year | `V3UlY3Iz` |
 | [Heyy](https://www.heyy.io/pricing) | See offer | — | — |
+| [Highseat](https://highseat.com/pricing?billing=yearly) | 40% off · first year of annual plans, new customers | From $54.00 / year · first year | — |
 | [Hostify](https://hostify.com/black-friday-2026) | 50% off | — | — |
 | [Keyword Race](https://keywordrace.com/) | About 40% off · lifetime | $35.00 · one-time | — |
 | [Kindclerk](https://kindclerk.com/#pricing) | 30% off · first 3 months | From $14.00 / month · first 3 months | — |
