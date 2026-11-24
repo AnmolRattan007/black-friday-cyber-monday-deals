@@ -333,6 +333,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 30% off | Varies by app | `MACPLUSBLACKFRIDAY26` |
 | [Margin](https://appsbymo.app/margin/) | 50% off | $4.99 · Mac App Store | `BLACKFRIDAY` |
 | [MeetingDebrief](https://meetingdebrief.com/) | 35% off | — | `BFCM2026` |
+| [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 40% off | $29.99 · lifetime | — |
 | [MouseUp](https://mouseup.app/pricing) | 50% off | $4.00 · lifetime | `MMFBF2026` |
 | [MultiDock 2](https://noteifyapp.com/multidock/) | 30% off | $27.99 · lifetime | `MACPLUSBLACKFRIDAY26` |
 | [MuteDeck](https://mutedeck.com/) | 35% off | — | `BFCM2026` |
