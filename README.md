@@ -373,6 +373,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [OkayTab](https://okaytab.app/) | 30% off · first billing period | $2.51 · first month | `BLACKFRIDAY2026` |
 | [Outlier](https://outlier.host/) | 50% off | $24.50 · one-time | — |
 | [Overcal](https://indiegoodies.com/overcal) | 50% off | $3.99 · lifetime | `INDIEGOODIESBF26` |
+| [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | 50% off · first year or first 3 months | From US$50.00 / year · first year; from US$5.00 / month · first 3 months | — |
 | [Parallels Desktop for Mac](https://www.parallels.com/products/desktop/buy/) | 50% off | — | — |
 | [Paste](https://pasteapp.io/black-friday-2026) | 50% off · first year | $14.99 / year · first year | `BLACKFRIDAY2026` |
 | [PastePal](https://indiegoodies.com/pastepal) | 50% off | $7.49 · lifetime | `INDIEGOODIESBF26` |
