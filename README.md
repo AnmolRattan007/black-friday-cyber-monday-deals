@@ -162,6 +162,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions?aid=a-jlklv1a4) | 90% off | $63.00 · lifetime | — |
 | [ConceptViz](https://conceptviz.app/pricing) | Lifetime offer | $299.00 · lifetime | — |
 | [Enconvo](https://enconvo.com/) | 30% off | — | — |
+| [FastScribe](https://fastscribe.org/pricing) | $31 off · first year, plus 6,500 bonus credits | $89.00 / year · Pro, first year | — |
 | [Fluent 2](https://fluentmac.app/) | 25% off | $36.75 · Basic | `BF2026` |
 | [MakeMidas](https://makemidas.com/pricing) | Up to 25% more credits · credit packs | $10 · 1,250 credits (was 1,000) · one-time | — |
 | [Mo](https://appsbymo.app/mo/) | 50% off | — | `BLACKFRIDAY` |
